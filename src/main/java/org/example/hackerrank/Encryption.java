@@ -1,5 +1,5 @@
 
-package org.example;
+package org.example.hackerrank;
 public class Encryption {
 
     public static String encryption(String s) {
@@ -67,8 +67,8 @@ public class Encryption {
     }
 
     public static void main(String args[]) {
-//                encryption("if man was meant to stay on the ground god would have given us roots");
-        encryption("chillout");
+                encryption("if man was meant to stay on the ground god would have given us roots");
+//        encryption("chillout");
     }
 
 

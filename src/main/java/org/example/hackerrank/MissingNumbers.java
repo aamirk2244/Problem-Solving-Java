@@ -1,5 +1,4 @@
-package org.example;
-import java.lang.reflect.Array;
+package org.example.hackerrank;
 import java.util.*;
 
 public class MissingNumbers {

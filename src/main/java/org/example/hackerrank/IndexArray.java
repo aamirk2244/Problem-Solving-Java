@@ -1,6 +1,5 @@
-package org.example;
+package org.example.hackerrank;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class IndexArray {

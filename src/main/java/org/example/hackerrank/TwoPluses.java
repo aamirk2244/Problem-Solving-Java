@@ -1,15 +1,9 @@
-package org.example;
+package org.example.hackerrank;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Collections;
 
 
 public class TwoPluses {

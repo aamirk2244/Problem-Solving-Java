@@ -1,7 +1,4 @@
-package org.example;
-
-import java.lang.reflect.Array;
-import java.util.ArrayList;
+package org.example.hackerrank;
 
 public class Reverse {
     public static int[] reverse(int[] array) {
