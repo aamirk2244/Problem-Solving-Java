@@ -1,11 +1,10 @@
-package org.example;
+package org.example.leetcode;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 
-import static java.util.Collections.max;
-import static java.util.Collections.min;
-
-public class Main {
+public class MaxProduct {
 
 
     public static int maxProduct(int[] nums) {
@@ -32,7 +31,7 @@ public class Main {
                 flag = true;
 
             }
-          }
+        }
 
         int maxProduct = -1;
         List<Integer> maxArray = new ArrayList<>();
